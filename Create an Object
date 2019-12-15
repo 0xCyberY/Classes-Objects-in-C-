@@ -1,0 +1,3 @@
+An object is created from a class.
+To create an object of MyClass, specify the class name, followed by the object name.
+To access the class attributes (myNum and myString), use the dot operator (.) on the object.
