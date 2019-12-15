@@ -1,0 +1,7 @@
+The body of class is defined inside the curly brackets and terminated by a semicolon at the end.
+Eg: Create a class called "MyClass“
+class MyClass { // The class 
+public: // Access specifier 
+int myNum; // Attribute (int variable) 
+string myString; // Attribute (string variable) 
+};
